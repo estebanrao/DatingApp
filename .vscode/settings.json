@@ -8,7 +8,11 @@
     "[html]": {
         "editor.formatOnSave": true
     },
+    "[csharp]": {
+        "editor.formatOnSave": true
+    },
     "editor.detectIndentation": false,
     "html.format.wrapLineLength": 80,
+    "editor.tabSize": 4
     //"html.format.wrapAttributes": "force-expand-multiline"
 }
