@@ -2,17 +2,31 @@
     "[javascript]": {
         "editor.formatOnSave": true
     },
+    "javascript.preferences.quoteStyle": "single",
     "[typescript]": {
         "editor.formatOnSave": true
     },
     "[html]": {
         "editor.formatOnSave": true
     },
+    //"html.format.wrapAttributes": "force-expand-multiline",
+    "html.format.wrapLineLength": 80,
     "[csharp]": {
         "editor.formatOnSave": true
     },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "postcssSorting.config": {
+        "order": [
+            "custom-properties",
+            "dollar-variables",
+            "declarations",
+            "at-rules",
+            "rules"
+        ],
+        "properties-order": "alphabetical"
+    },
     "editor.detectIndentation": false,
-    "html.format.wrapLineLength": 80,
     "editor.tabSize": 4
-    //"html.format.wrapAttributes": "force-expand-multiline"
 }
