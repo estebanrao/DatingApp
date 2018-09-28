@@ -28,5 +28,6 @@
         "properties-order": "alphabetical"
     },
     "editor.detectIndentation": false,
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Default Dark+"
 }
